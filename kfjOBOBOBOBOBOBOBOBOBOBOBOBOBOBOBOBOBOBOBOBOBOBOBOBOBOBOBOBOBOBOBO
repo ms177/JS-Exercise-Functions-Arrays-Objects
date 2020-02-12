@@ -1,0 +1,288 @@
+[33mcommit f83d9f1659c58c2fece82901d8f4c3471d4182d5[m[33m ([m[1;36mHEAD -> [m[1;32mquyen-moscoso[m[33m)[m
+Author: ms177 <59634495+ms177@users.noreply.github.com>
+Date:   Tue Feb 11 21:10:13 2020 -0800
+
+    completed 1 task
+
+[33mcommit 0c3af11008168d25581b86ed784dc8bc5bb3ca67[m[33m ([m[1;31morigin/quyen-moscoso[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Dan Levy <dan@danlevy.net>
+Date:   Tue Nov 5 15:07:43 2019 -0700
+
+    Add numbers fix
+
+[33mcommit aefb7f836f7d0a8f19e9a92bf59d57857535f409[m
+Author: Dan Levy <397632+justsml@users.noreply.github.com>
+Date:   Tue Nov 5 15:01:49 2019 -0700
+
+    Update index.js
+
+[33mcommit a30f1e5405b08a93f982a795dbcd6f294b0ebc03[m
+Author: Dan Levy <397632+justsml@users.noreply.github.com>
+Date:   Sun Nov 3 17:26:11 2019 -0700
+
+    Update index.test.js
+
+[33mcommit d971ab8a17fd672c32845ffe033f462b76c0ddc4[m
+Author: Dan Levy <397632+justsml@users.noreply.github.com>
+Date:   Sun Nov 3 17:24:55 2019 -0700
+
+    Update index.js
+
+[33mcommit ed51ba2531bfcf699ff7250934133b25722cae3a[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 30 13:42:47 2019 +0100
+
+    comment
+
+[33mcommit 96447de8eb192c71a41653eb1aea1d092e9fc787[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Tue Oct 29 15:03:21 2019 +0100
+
+    remove the f at the end of the arrow function exercises
+
+[33mcommit 1475a7b1ce823d58766208698ddf79de50806dbc[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Fri Oct 25 12:50:39 2019 +0200
+
+    readme work
+
+[33mcommit c77f0eb216c489f889ea6f622e9a47e6ed250054[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 11:57:13 2019 +0200
+
+    put back
+
+[33mcommit 61d31d4b43e0da3cfddf2ddc301c0466f5783e24[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 11:50:44 2019 +0200
+
+    wip
+
+[33mcommit 7c26494724036b5da3ecff59dfa3bc01b6156454[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 11:43:48 2019 +0200
+
+    resurrect the inventory file so students can study it
+
+[33mcommit 9de8e87954800802aedd348b81cc215cc617cf47[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 11:38:59 2019 +0200
+
+    readme work
+
+[33mcommit 7b5e62a0a396ae31ad1959c373063981dca823e4[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 11:38:21 2019 +0200
+
+    readme work
+
+[33mcommit 77dd0d29816e71d6a592df129d1761dcf3558302[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 11:37:35 2019 +0200
+
+    readme work
+
+[33mcommit b7a5e0b466eb08be1a832f8b57043adfebf13055[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 11:34:19 2019 +0200
+
+    readme work
+
+[33mcommit 2d4b94027cf5eea7110a795dea213470ebc459a8[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 11:33:07 2019 +0200
+
+    readme work
+
+[33mcommit c1f6762ee0c5d662a9c6b007e732735f25398b61[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 11:30:56 2019 +0200
+
+    readme work
+
+[33mcommit 06f7eab770855356adb33bd5dfef0ffb78a11510[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 11:28:28 2019 +0200
+
+    readme work
+
+[33mcommit 7a5a4dcaadceff665784a8d27aef54374b69d6b7[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 10:59:45 2019 +0200
+
+    add screenshot
+
+[33mcommit 64dad31ad9c8cdbcbf5cdb6f2e836a5b2260a911[m
+Merge: 9d97b0f 0a98d6d
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 10:31:01 2019 +0200
+
+    Merge branch 'master' of https://github.com/LambdaSchool/JS-Exercise-Functions-Arrays-Objects
+
+[33mcommit 9d97b0f6cb5e6be3511f5b7e44b64595e170e82a[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Oct 24 10:30:58 2019 +0200
+
+    do not bail on failing tests
+
+[33mcommit 0a98d6dfc37daa116ac4e5600dd92230daeb1729[m
+Author: Dan Levy <dan@danlevy.net>
+Date:   Wed Oct 23 13:27:13 2019 -0600
+
+    inlining inventory test data
+
+[33mcommit 6fc6de6894071e23391db926ea7f17f6df97536b[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 16:36:07 2019 +0200
+
+    finish prep
+
+[33mcommit 82b3493c3558e70037f416a1206639fa90955a6b[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 16:31:38 2019 +0200
+
+    polish instructions
+
+[33mcommit 87d06f62eb9e5eb3beaeef29d6705ea5aa22ede5[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 16:19:40 2019 +0200
+
+    wip
+
+[33mcommit 51ee2d751ebad9158fd32ecef3286f549c0ab53c[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 16:18:51 2019 +0200
+
+    readme work
+
+[33mcommit af659f6d4626f345f36d7f9863157736793e0951[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 16:16:41 2019 +0200
+
+    readme work
+
+[33mcommit 4c8e7376b5a8ee2fe5c9ac89da275f30eadf48bc[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 16:13:17 2019 +0200
+
+    add example
+
+[33mcommit c434716afaf37016ecc0aa8913ba53e6d19394e2[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 15:41:13 2019 +0200
+
+    ditching  code sandbox
+
+[33mcommit 76d870fa3be7abb4865285b5a4d3c753c7708395[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 15:38:45 2019 +0200
+
+    change keywords
+
+[33mcommit c0717da9354612f01567d5c57102c9a48ac38e75[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 15:38:07 2019 +0200
+
+    remove unneeded data
+
+[33mcommit 5825566a683baf70ca3eb196e24212a4de3c34f6[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 15:36:33 2019 +0200
+
+    inlining the inventory in the test
+
+[33mcommit 42891e71a2b1bee083442678c99be758fa6bd38b[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 15:33:07 2019 +0200
+
+    package.json
+
+[33mcommit f697aa4dd0891bd5534e8e3e48797ec0210188e0[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 15:30:27 2019 +0200
+
+    prep
+
+[33mcommit 6ed0d8f4298f3805545e2fa594ef243103e8a557[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 15:20:53 2019 +0200
+
+    refactor fat arrow
+
+[33mcommit b4f74d300e5caa3f471421f76a9629f0b45d637a[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 15:07:25 2019 +0200
+
+    get german cars
+
+[33mcommit 444621928397aabf0660a4851903c1f1939da9ce[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 15:04:20 2019 +0200
+
+    get german cars
+
+[33mcommit f48eb4e58d7f083ab5d8a576e0b29446e71cf285[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 14:54:43 2019 +0200
+
+    get older cars
+
+[33mcommit e597f946d90e1a1c1ba54758be5a85b56f64b9e4[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 14:39:42 2019 +0200
+
+    get car years
+
+[33mcommit 444af82c3cea1324570dab092629b2c5a9135ce0[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 13:59:02 2019 +0200
+
+    sort inventory
+
+[33mcommit 6e978f11b5e94e216ff8f21d0ad1c3ee6b820684[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 13:37:27 2019 +0200
+
+    get last car
+
+[33mcommit 7395e6cb32c280c79db74ade17ca3e7ffc845478[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 13:30:08 2019 +0200
+
+    readme work
+
+[33mcommit a23e45512c23034c06f935eb8f94f1284a3886dc[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 13:28:21 2019 +0200
+
+    complete get car by id
+
+[33mcommit dbcda1097dab39fcbadad6a3c93993582b609680[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 13:22:29 2019 +0200
+
+    start work on arrays
+
+[33mcommit 33b6b86890daeb4deb6b289b7ec8967c5d7a5dc9[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 13:03:06 2019 +0200
+
+    readme work
+
+[33mcommit 51722fe06d9d70167297002e5f607b1ebf9f5b1d[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 13:01:32 2019 +0200
+
+    complete object exercises
+
+[33mcommit 77c840fd61b4949c9191182d31282edf6a067378[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Oct 23 12:26:08 2019 +0200
+
+    get to work on JS 1
+
+[33mcommit 3f92c8efcd2513c6ddf2ea6782d570df3f927f16[m
+Author: Gabriel Cabrejas <Ladrillo@users.noreply.github.com>
+Date:   Wed Oct 23 11:51:02 2019 +0200
+
+    Initial commit
